@@ -1,0 +1,195 @@
+body,
+h1,
+h2,
+h3,
+ul,
+p,
+    {
+    margin: 0;
+    padding: 0;
+}
+
+
+#fast {
+    background-color: #35424a;
+    border-bottom: 5px solid coral;
+}
+
+
+#fast h1 {
+    color: #fff;
+    font-family: sans-serif;
+    padding: 20px 0;
+    display: inline-block;
+}
+
+#fast .logo {
+    color: coral;
+}
+
+.navbar {
+    float: right;
+}
+
+
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 38px 25;
+    display: inline-block;
+}
+
+#banner {
+    height: 60vh;
+    background-image: url(image/oboi.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+#banner h1 {
+    margin-top: 0;
+    padding-top: 150;
+}
+
+.navbar li a:hover {
+    color: coral;
+}
+
+#newsletter {
+    background-color: #35424a;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 20 0;
+    display: inline-block;
+    width: 100%;
+}
+
+#newsletter .left {
+    float: left;
+}
+
+#newsletter .right {
+    float: right;
+}
+
+#newsletter input {
+    padding: 5px;
+}
+
+.button {
+    padding: 6.7px 10px;
+    border: none;
+    background-color: coral;
+    color: #fff;
+    margin: 10px;
+}
+
+#lipton {
+    padding: 30px 0;
+}
+
+.box {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.box img {
+    max-width: 100%;
+    width: 130;
+}
+
+.clr {
+    clear: both;
+}
+
+#dinay {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: coral;
+    color: #fff;
+    padding: 20;
+    margin: 20px;
+}
+
+
+#about-us{
+    font-family: sans-serif;
+}
+
+.airpods {
+    width: 65%;
+    float: left;
+}
+
+
+
+.airpodspro {
+    width: 30%;
+    float: right;
+}
+
+.bg-dark {
+    background-color: gray;
+    padding: 16;
+    color: #fff;
+    
+}
+
+
+.airpodspro {
+    background-color: gray;
+    margin: 15;
+    padding: 10;
+    color: #fff;
+}
+
+
+.servis-box{
+    padding: 15;
+    margin: 5 0;
+    background-color: #e5e5e5;
+    border: 1px solid black;
+}
+
+.active {
+    color:coral !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.left h3 {
+    margin-top: 0;
+    padding: 15;
+}
+
+
+
+
+.phone {
+    width: 70%;
+    margin: auto;
+}
